@@ -1,0 +1,16 @@
+{
+  "name": "aries",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A JavaScript library for Timer, including Debounce and Throttle.",
+  "main": "dist/gaa-aries.js",
+  "scripts": {
+    "build": "node ./build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JusufGaa",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^4.21.0"
+  }
+}
